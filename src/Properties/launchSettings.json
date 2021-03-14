@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GitCommitTool": {
+      "commandName": "Project",
+      "commandLineArgs": "piAsciiArt.txt https://piday-314:b527a54d03cbe4d54c04be80c01c8cb2400365c3@github.com/PiDay-314/2021.git"
+    }
+  }
+}

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitCommitTool", "GitCommitTool\GitCommitTool.csproj", "{38EC651B-5BE1-4475-B508-B94EB49D1099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsciiArtDeployer", "AsciiArtDeployer.csproj", "{38EC651B-5BE1-4475-B508-B94EB49D1099}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
